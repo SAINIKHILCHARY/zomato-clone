@@ -41,4 +41,7 @@ Follow these steps to get a local copy of the project up and running on your mac
 
 3. Install dependencies
    ```bash
-   npm install 
+   npm install
+4. Install dependencies
+   ```bash
+   npm run
